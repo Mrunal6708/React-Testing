@@ -1,0 +1,13 @@
+.App{
+  text-align: center;
+  margin-top: "50px";
+}
+h2{
+  color: gray;
+}
+button{
+  margin-left: 10px;
+  background-color: skyblue;
+  color: gray;
+  border: none;
+}
